@@ -1,0 +1,27 @@
+.ViewDroneTech input {
+    margin: 10px;
+}
+.ViewDroneTech h3 {
+    margin: 10px;
+}
+.ViewDroneTech select {
+    margin: 10px;
+}
+.ViewDroneTech button {
+    margin: 10px;
+}
+
+.backButton {
+    display: inline-block;
+    padding: 5px 25px;
+    text-align: center;
+    margin-right: 100px;
+}
+
+.buttons {
+    display: inline-block;
+    padding: 5px 25px;
+    text-align: center;
+    margin-right: 20px;
+}
+

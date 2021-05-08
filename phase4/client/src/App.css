@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.login-alert {
+  color: red;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
